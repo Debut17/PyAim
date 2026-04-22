@@ -1,0 +1,11 @@
+{
+  "duration": 30,
+  "max_targets": 1,
+  "sound_on": true,
+  "crosshair": "dot",
+  "moving_pct": 15,
+  "golden_pct": 10,
+  "bomb_pct": 10,
+  "shrink": true,
+  "flicker_pct": 8
+}
